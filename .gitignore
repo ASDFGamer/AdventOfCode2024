@@ -40,3 +40,4 @@ build/
 
 ### AoC ###
 /src/main/resources/inputs
+/src/main/resources/test
